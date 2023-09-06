@@ -69,6 +69,7 @@ namespace CoreMvcCodeFirst.Controllers
         // GET: RegisterController/Edit/5
         public ActionResult Edit(int id)
         {
+
             return View();
         }
 
